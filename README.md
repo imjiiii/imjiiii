@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**imjiiii/imjiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mark Joseph Bucio 👋
 
-Here are some ideas to get you started:
+### Sophomore @ University of the Philippines - Los Baños
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!  
+I'm passionate about learning, problem-solving, and having a little fun along the way.
+
+---
+
+## 👨‍💻 Tech Stack & Tools
+
+- **Languages:** Python, C, R, Java, HTML/CSS, JavaScript
+- **Tools & Platforms:** Vim, Obsidian, LaTeX, Canva
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mark-joseph-bucio/)
+- [Personal Website](https://markjbucio.wixsite.com/my-site-3)
+
+---
+
+## 🎬 Fun Facts
+
+- I love watching movies and rate them on Letterboxd!  
+  (Ask me for recommendations or my latest review!)
+- Playful by nature, but when it’s crunch time, I get serious and productive.
+
+---
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci
+
+Feel free to explore my repositories, connect, or challenge me with your favorite coding problems!
