@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 
 
-# Hi there, I'm Mark Joseph Bucio 👋
+# I'm Mark Joseph Bucio 👋
+## You can call me MJ!
+
 
 ### Sophomore @ University of the Philippines - Los Baños
 
